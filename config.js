@@ -12,7 +12,14 @@ const CONFIG = {
 
   socialLinks: [],
 
-  projects: [],
+  projects: [
+    {
+      name: "RemotePhoneBlocker",
+      description: "Android app for blocking unwanted phone calls remotely.",
+      repo: "https://github.com/DanilPI/RemotePhoneBlocker",
+      tags: ["Android", "Kotlin"],
+    },
+  ],
 
   contact: [],
 
