@@ -27,7 +27,11 @@ const CONFIG = {
   ],
 
   contact: [
-       { label: "Telegram", url: "https://telegram.me/p1_daniil" }
+    {
+      name: "Telegram",
+      value: "@p1_daniil",
+      url: "https://telegram.me/p1_daniil",
+    },
   ],
 
   terminal: {
