@@ -11,7 +11,7 @@ const CONFIG = {
   },
 
   socialLinks: [
-    { label: "X", url: "https://x.com/danilp108" },
+    { label: "X Twitter", url: "https://x.com/danilp108" },
     { label: "Telegram", url: "https://telegram.me/danilp108" },
     { label: "GitHub", url: "https://github.com/DanilPI" },
     { label: "Steam", url: "https://steamcommunity.com/id/danil_pi/" },
@@ -26,7 +26,9 @@ const CONFIG = {
     },
   ],
 
-  contact: [],
+  contact: [
+       { label: "Telegram", url: "https://telegram.me/p1_daniil" }
+  ],
 
   terminal: {
     // Leave these empty to load directly into a clean prompt.
