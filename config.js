@@ -15,7 +15,7 @@ const CONFIG = {
   projects: [
     {
       name: "RemotePhoneBlocker",
-      description: "Android app for blocking unwanted phone calls remotely.",
+      description: "Android app for blocking phone remotely via watches.",
       repo: "https://github.com/DanilPI/RemotePhoneBlocker",
       tags: ["Android", "Kotlin"],
     },
